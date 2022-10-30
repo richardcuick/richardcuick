@@ -3,9 +3,7 @@
 ## Experience
 
 * 2005 - 2006, developer in Changchun AvePoint (part-time job).
-
 * 2006 - 2015, Technology Development Director in IT department of Dalian Hi-Think Technology, Corp ([DHC](https://www.dhc.com.cn/)).
-
 * 2015 - Now, Technology Architecture Delivery Manager in software engineering service (SES) team of Accenture CIO organization.
 
 ## Education
@@ -31,12 +29,6 @@ In 2002, graduated from [College of Software](https://csw.jlu.edu.cn/) in [Jilin
 * Serverless
 * Microservices
 * DDD
-
-
-
-
-
-
 
 <!--
 **richardcuick/richardcuick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

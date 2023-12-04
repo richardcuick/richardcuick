@@ -1,0 +1,5 @@
+distinct=int(input("请输入距离:"))
+time=int(input("请输入时间:"))
+init_speed=int(input("请输入初速度:"))
+add_speed=(distinct-time*init_speed)*2/(time*time)
+print(add_speed)

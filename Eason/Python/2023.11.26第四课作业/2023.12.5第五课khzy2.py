@@ -1,0 +1,8 @@
+n=input("请输入六个字符")
+n1=chr(ord(n[0])+3)
+n2=chr(ord(n[1])+3)
+n3=chr(ord(n[2])+3)
+n4=chr(ord(n[3])+3)
+n5=chr(ord(n[4])+3)
+n6=chr(ord(n[5])+3)
+print(n1+n2+n3+n4+n5+n6)

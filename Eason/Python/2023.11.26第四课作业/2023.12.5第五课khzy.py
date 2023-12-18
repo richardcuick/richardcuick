@@ -1,0 +1,12 @@
+a=(ord("b"))+3
+b=(ord("i"))+3
+c=(ord("t"))+3
+d=(ord("k"))+3
+e=(ord("i"))+3
+f=(ord("d"))+3
+print(chr(a))
+print(chr(b))
+print(chr(c))
+print(chr(d))
+print(chr(e))
+print(chr(f))
